@@ -8,7 +8,7 @@ Chao Liao is currently a Full-Time Researcher at ByteDance Seed. He received his
 
 ## Research Interests
 
-His current research focuses on **unified models for multimodal understanding and generation**. His previous research covers **model compression**, **neural architecture search (NAS)**, and **multimodal large language models (MLLMs)**.
+His current research focuses on **unified models for multimodal understanding and generation**, with the primary research goal of exploring **disruptive new paradigms for multimodal pre-training**. His previous research covers **neural architecture search (NAS)** and **multimodal large language models (MLLMs)**.
 
 
 
