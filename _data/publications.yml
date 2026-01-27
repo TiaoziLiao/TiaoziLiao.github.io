@@ -1,7 +1,7 @@
 main:
 
   - title: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization
-    authors: Yang Jin, Kun Xu, Liwei Chen, <strong>Chao Liao</strong>, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu
+    authors: Yang Jin, Kun Xu, Liwei Chen, <strong>Chao Liao</strong>, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2309.04669
