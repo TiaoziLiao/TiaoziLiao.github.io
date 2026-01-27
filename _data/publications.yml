@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2309.04669
     code: https://github.com/jy0205/LaVIT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/lavit_teaser.jpg
     # notes: Early Accept
 
   - title: Maskfusion: Feature augmentation for click-through rate prediction via input-adaptive mask fusion
@@ -19,4 +19,4 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/maskfusion.jpg
