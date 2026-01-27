@@ -1,5 +1,15 @@
 main:
 
+  - title: "Mogao: An omni foundation model for interleaved multi-modal generation"
+    authors: <strong>Chao Liao</strong>, Liyang Liu, Xun Wang, Zhengxiong Luo, Xinyu Zhang, Wenliang Zhao, Jie Wu, Liang Li, Zhi Tian, Weilin Huang
+    conference_short: Tech Report
+    # conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2505.05472
+    # code: https://github.com/jy0205/LaVIT
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/mogao_teaser.jpg
+    # notes: Early Accept
+    
   - title: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization
     authors: Yang Jin, Kun Xu, Liwei Chen, <strong>Chao Liao</strong>, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
     conference_short: ICLR
