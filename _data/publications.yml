@@ -1,9 +1,9 @@
 main:
 
   - title: "Seedream 4.0: Toward next-generation multimodal image generation"
-    authors: <strong>Seedream Team</strong>
-    # conference_short: Seed Tech Report
-    conference: Seed Tech Report, 2025.
+    authors: <strong>Bytedance Seedream Team</strong>
+    # conference_short: Bytedance Seed Tech Report
+    conference: Bytedance Seed Tech Report, 2025.
     pdf: https://arxiv.org/pdf/2509.20427?
     # code: https://github.com/jy0205/LaVIT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
@@ -13,7 +13,7 @@ main:
   - title: "Mogao: An omni foundation model for interleaved multi-modal generation"
     authors: <strong>Chao Liao</strong>, Liyang Liu, Xun Wang, Zhengxiong Luo, Xinyu Zhang, Wenliang Zhao, Jie Wu, Liang Li, Zhi Tian, Weilin Huang
     # conference_short: Seed Tech Report
-    conference: Seed Tech Report, 2025.
+    conference: Bytedance Seed Tech Report, 2025.
     pdf: https://arxiv.org/pdf/2505.05472
     # code: https://github.com/jy0205/LaVIT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
