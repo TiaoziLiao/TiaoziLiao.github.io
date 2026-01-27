@@ -10,7 +10,7 @@ main:
     image: ./assets/img/lavit_teaser.jpg
     # notes: Early Accept
 
-  - title: Maskfusion Feature augmentation for click-through rate prediction via input-adaptive mask fusion
+  - title: "Maskfusion: Feature augmentation for click-through rate prediction via input-adaptive mask fusion"
     authors: <strong>Chao Liao</strong>, Jianchao Tan, Jiyuan Jia, Yi Guo, Chengru Song
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.
@@ -19,4 +19,4 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    image: ./assets/img/maskfusion.jpg
+    image: ./assets/img/maskfusion_teaser.jpg
