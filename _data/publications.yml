@@ -1,6 +1,6 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  - title: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization
     authors: Yang Jin, Kun Xu, Liwei Chen, <strong>Chao Liao</strong>, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
