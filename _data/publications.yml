@@ -9,6 +9,16 @@ main:
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/seedream4_teaser.jpg
     # notes: Early Accept
+
+  - title: "Seed1.5-VL Technical Report"
+    authors: <strong>Bytedance Seed Team</strong>
+    # conference_short: Bytedance Seed Tech Report
+    conference: Bytedance Seed Tech Report, 2025.
+    pdf: https://arxiv.org/pdf/2505.07062
+    # code: https://github.com/jy0205/LaVIT
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/seed1.5vl_teaser.jpg
+    # notes: Early Accept
     
   - title: "Mogao: An omni foundation model for interleaved multi-modal generation"
     authors: <strong>Chao Liao</strong>, Liyang Liu, Xun Wang, Zhengxiong Luo, Xinyu Zhang, Wenliang Zhao, Jie Wu, Liang Li, Zhi Tian, Weilin Huang
