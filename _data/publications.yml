@@ -1,5 +1,35 @@
 main:
 
+  - title: "VoT: Vision-of-Thought for Unified Multimodal Representation Alignment"
+    authors: Jingxiang Sun<sup>*</sup>, <strong>Chao Liao</strong><sup>*†</sup>, Zhengxiong Luo<sup>*</sup>, Chaorui Deng, Chen-lin Zhang, Junke Wang, Ceyuan Yang, Haoqi Fan, Weilin Huang<sup>‡</sup>
+    # conference_short: Seed Tech Report
+    conference: Bytedance Seed Tech Report, 2026.
+    pdf: https://arxiv.org/pdf/2609.07815
+    # code: https://github.com/jy0205/LaVIT
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/vot_teaser.jpg
+    others: <span style="font-size:12px;">(* Equal Contribution, † Project Lead, ‡ Corresponding Author)</span>
+
+  - title: "Mogao: An omni foundation model for interleaved multi-modal generation"
+    authors: <strong>Chao Liao</strong>, Liyang Liu, Xun Wang, Zhengxiong Luo, Xinyu Zhang, Wenliang Zhao, Jie Wu, Liang Li, Zhi Tian, Weilin Huang
+    # conference_short: Seed Tech Report
+    conference: Bytedance Seed Tech Report, 2025.
+    pdf: https://arxiv.org/pdf/2505.05472
+    # code: https://github.com/jy0205/LaVIT
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/mogao_teaser.jpg
+    # notes: Early Accept
+    
+  - title: "LaViT: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization"
+    authors: Yang Jin, Kun Xu, Liwei Chen, <strong>Chao Liao</strong>, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2309.04669
+    code: https://github.com/jy0205/LaVIT
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/lavit_teaser.jpg
+    # notes: Early Accept
+
   - title: "Seedream 4.0: Toward next-generation multimodal image generation"
     authors: <strong>Bytedance Seedream Team</strong>
     # conference_short: Bytedance Seed Tech Report
@@ -18,26 +48,6 @@ main:
     # code: https://github.com/jy0205/LaVIT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/seed1.5vl_teaser.jpg
-    # notes: Early Accept
-    
-  - title: "Mogao: An omni foundation model for interleaved multi-modal generation"
-    authors: <strong>Chao Liao</strong>, Liyang Liu, Xun Wang, Zhengxiong Luo, Xinyu Zhang, Wenliang Zhao, Jie Wu, Liang Li, Zhi Tian, Weilin Huang
-    # conference_short: Seed Tech Report
-    conference: Bytedance Seed Tech Report, 2025.
-    pdf: https://arxiv.org/pdf/2505.05472
-    # code: https://github.com/jy0205/LaVIT
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/mogao_teaser.jpg
-    # notes: Early Accept
-    
-  - title: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization
-    authors: Yang Jin, Kun Xu, Liwei Chen, <strong>Chao Liao</strong>, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
-    conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2309.04669
-    code: https://github.com/jy0205/LaVIT
-    # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/lavit_teaser.jpg
     # notes: Early Accept
 
   - title: "Maskfusion: Feature augmentation for click-through rate prediction via input-adaptive mask fusion"
