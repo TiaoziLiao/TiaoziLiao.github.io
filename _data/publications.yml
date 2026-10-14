@@ -20,14 +20,14 @@ main:
     image: ./assets/img/mogao_teaser.jpg
     # notes: Early Accept
     
-  - title: "LaViT: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization"
-    authors: Yang Jin, Kun Xu, Liwei Chen, <strong>Chao Liao</strong>, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
-    conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2309.04669
-    code: https://github.com/jy0205/LaVIT
+  - title: "Seed1.5-VL Technical Report"
+    authors: <strong>Bytedance Seed Team</strong>
+    # conference_short: Bytedance Seed Tech Report
+    conference: Bytedance Seed Tech Report, 2025.
+    pdf: https://arxiv.org/pdf/2505.07062
+    # code: https://github.com/jy0205/LaVIT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/lavit_teaser.jpg
+    image: ./assets/img/seed1.5vl_teaser.jpg
     # notes: Early Accept
 
   - title: "Seedream 4.0: Toward next-generation multimodal image generation"
@@ -40,14 +40,14 @@ main:
     image: ./assets/img/seedream4_teaser.jpg
     # notes: Early Accept
 
-  - title: "Seed1.5-VL Technical Report"
-    authors: <strong>Bytedance Seed Team</strong>
-    # conference_short: Bytedance Seed Tech Report
-    conference: Bytedance Seed Tech Report, 2025.
-    pdf: https://arxiv.org/pdf/2505.07062
-    # code: https://github.com/jy0205/LaVIT
+  - title: "LaViT: Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization"
+    authors: Yang Jin, Kun Xu, Liwei Chen, <strong>Chao Liao</strong>, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2309.04669
+    code: https://github.com/jy0205/LaVIT
     # bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/seed1.5vl_teaser.jpg
+    image: ./assets/img/lavit_teaser.jpg
     # notes: Early Accept
 
   - title: "Maskfusion: Feature augmentation for click-through rate prediction via input-adaptive mask fusion"
